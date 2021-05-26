@@ -1,7 +1,8 @@
 # Self_Havoc  
 A 3D first person based game built by making use of Python and PyGame. 
-The game uses the concept of Ray Tracing technique and Bresenham's Line Algorithm to create and implement the 3D setting in the game.
-Sprites and unique textures have also been used in the game map.  
+The game uses the concept of Ray Tracing technique and Bresenham's Line Algorithm to create and implement the 3D setting in the game.  
+Pygame doesn't really support 3D functions directly, and this was a challenge for me. This is why I had to make use of some of the recognized algorithms in Computer Graphics.  
+Sprites and unique textures have also been used in the game map along with a theme song and walkking tap sound as well.  
 
 # PREVIEW SCREENSHOTS  
 ![19BCS2190_o2](https://user-images.githubusercontent.com/79057173/119277194-d35b4b00-bc3b-11eb-8cc5-f7f9dad55399.PNG)
